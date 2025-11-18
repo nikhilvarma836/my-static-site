@@ -33,12 +33,4 @@ Edit
 3. Push to the `main` branch.
 4. Enable GitHub Pages in your repo settings:
    - Settings → Pages → Source: `main` branch, `/ (root)`
-5. Access your site from the provided link.
-
-## 📸 Screenshot
-
-_Add a screenshot of your site here if you'd like._
-
----
-
-Feel free to improve or personalize this site! 🎉
+5. Access your site from the provided link
